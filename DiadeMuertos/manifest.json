@@ -1,0 +1,43 @@
+{
+    "name" : "DiadeMuertos",
+    "short_name" : "DiaMuertos",
+    "background-color" : "#FFF",
+    "theme _color" : "#BBA98B",
+    "orientation" : "portrait",
+    "display" : "standalone",
+    "star_url" : "./index.html?utm_source=web_app_mainifest",
+    "scope" : "./",
+    "lang" : "es-MX",
+
+
+    "icons":[
+        {
+            "src":"./icon/dia-de-los-muertos-16.png",
+            "size":"16x16",
+            "type":"image/png"
+        },
+        {
+            "src":"./icon/dia-de-los-muertos-24.png",
+            "size":"24x24",
+            "type":"image/png"
+        },
+        {
+            "src":"./icon/dia-de-los-muertos-32.png",
+            "size":"32x32",
+            "type":"image/png"
+        },
+        {
+            "src":"./icon/dia-de-los-muertos-256.png",
+            "size":"256x256",
+            "type":"image/png"
+        },
+        {
+            "src":"./icon/dia-de-los-muertos-512.png",
+            "size":"512x512",
+            "type":"image/png"
+        }
+    ],
+    "id":"DiaMuertos"
+
+
+}
